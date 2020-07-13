@@ -1,18 +1,18 @@
 html {
-    background-color:tomato;
+    background-color:rgba(193, 154, 216, 0.2);
 }
 
 
 header{
-  background-color: yellow;  
+  background-color: rgba(114, 138, 155, 0.2);  
 }
 
-h1{
-color:black;
+.title{
+color:white;
 text-align: center;
 
 }
 
-p{
+main{
     text-align: center;
 }
